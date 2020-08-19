@@ -1,20 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>wenlx</title>
   
-  
+  <subtitle>happy</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-18T09:12:47.696Z</updated>
+  <updated>2020-08-19T05:47:13.434Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>wenlx</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>just a draft</title>
+    <link href="http://yoursite.com/2020/08/19/just-a-draft/"/>
+    <id>http://yoursite.com/2020/08/19/just-a-draft/</id>
+    <published>2020-08-19T05:47:13.000Z</published>
+    <updated>2020-08-19T05:47:13.434Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>a amazing blog</title>
+    <link href="http://yoursite.com/2020/08/19/a-amazing-blog/"/>
+    <id>http://yoursite.com/2020/08/19/a-amazing-blog/</id>
+    <published>2020-08-19T03:54:44.000Z</published>
+    <updated>2020-08-19T03:57:50.845Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
